@@ -183,21 +183,21 @@ hr {
 .section-title.center {
 	padding: 25px 0 45px 0;
 }
-/* Blog Section */
-#blog {
+/* About Section */
+#about {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#blog .blog-text {
+#about .about-text {
 	margin-left: 10px;
 }
-#blog img {
+#about img {
 	border-radius: 50%;
 	width: 30%;
 	height: auto;
 	display: inline-block;
 }
-#blog p {
+#about p {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
