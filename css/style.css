@@ -262,23 +262,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	padding-bottom: 30px;
 	text-align: center;
 }
-ul.cat li {
-	display: inline-block;
+
+ul.type li {
+	margin-bottom: 20px;
+	margin-left: 10px;
 }
-ol.type li {
-	display: inline-block;
-	margin-left: 20px;
-}
-ol.type li a {
+ul.type li a {
 	background: #7bc3d1;
 	color: #fff;
 	padding: 6px 14px;
 }
-ol.type li a.active {
+ul.type li a.active {
 	background: #121d1f;
 	color: #fff;
 }
-ol.type li a:hover {
+ul.type li a:hover {
 	background: #121d1f;
 	color: #fff;
 }
